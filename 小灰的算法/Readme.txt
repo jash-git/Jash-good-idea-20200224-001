@@ -1,6 +1,9 @@
 漫畫算法：小灰的算法之旅
 
+
 資料來源: http://www.huiyankan.com/20191001222386.html
+https://github.com/yellowgg/AlgorithmAndDataStructrue_xiaohui
+https://github.com/bjweimengshu/ProgrammerXiaohui
 
 
 第1章算法概述/ 1
